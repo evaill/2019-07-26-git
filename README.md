@@ -1,6 +1,6 @@
-# Git
+# Git Commands
 
-## Local:
+## Local Commands:
 - `init`: initialize the repository
 - `status`: looks at the state of the repository
 - `add`: puts file(s) into the "staging area"
@@ -11,7 +11,7 @@
     -`log --oneline`: to see the simple one line log 
     -`log --oneline --decorate --all --graph`: shows you all the branches, labeled and graph nodes
 
-## Remotes: 
+## Remote Commands: 
 
 -` remote add <name> <URL>`: sets a URL to the <name>
 - `push origin master`: sends master branch to origin
