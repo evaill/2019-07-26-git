@@ -8,6 +8,8 @@ Local:
     - `commit -m`: allows for a quick oneline commit message
 - `diff`: differences between states/files
 - `log`: our history
+    -`log --oneline`: to see the simple one line log 
+    -`log --oneline --decorate --all --graph`: shows you all the branches, labeled and graph nodes
 
 Remotes: 
 
