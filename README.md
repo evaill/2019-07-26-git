@@ -16,6 +16,6 @@ Notes for a git workshop
 
 ## Remote Commands
 
--` remote add <name> <URL>`: sets a URL to the <name>
+- `remote add <name> <URL>`: sets a URL to the <name>
 - `push origin master`: sends master branch to origin
 - `pull origin master`: sends master branch to local computer
